@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:README.md">
+   </FileRef>
+   <FileRef
+      location = "group:Fibonacci.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Max.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Sum.playground">
+   </FileRef>
+   <FileRef
+      location = "group:LastIndexOf.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Tree.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Wordplay.playground">
+   </FileRef>
+</Workspace>
