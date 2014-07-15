@@ -2,23 +2,5 @@
 <Timeline
    version = "3.0">
    <TimelineItems>
-      <LoggerValueHistoryTimelineItem
-         documentLocation = "#CharacterRangeLen=0&amp;CharacterRangeLoc=349&amp;EndingColumnNumber=14&amp;EndingLineNumber=12&amp;StartingColumnNumber=4&amp;StartingLineNumber=12&amp;Timestamp=426744623.637541">
-      </LoggerValueHistoryTimelineItem>
-      <LoggerValueHistoryTimelineItem
-         documentLocation = "#CharacterRangeLen=0&amp;CharacterRangeLoc=349&amp;EndingColumnNumber=20&amp;EndingLineNumber=12&amp;StartingColumnNumber=4&amp;StartingLineNumber=12&amp;Timestamp=426744623.637541">
-      </LoggerValueHistoryTimelineItem>
-      <LoggerValueHistoryTimelineItem
-         documentLocation = "#CharacterRangeLen=0&amp;CharacterRangeLoc=349&amp;EndingColumnNumber=23&amp;EndingLineNumber=12&amp;StartingColumnNumber=4&amp;StartingLineNumber=12&amp;Timestamp=426744623.637541">
-      </LoggerValueHistoryTimelineItem>
-      <LoggerValueHistoryTimelineItem
-         documentLocation = "#CharacterRangeLen=0&amp;CharacterRangeLoc=349&amp;EndingColumnNumber=16&amp;EndingLineNumber=12&amp;StartingColumnNumber=0&amp;StartingLineNumber=12&amp;Timestamp=426744623.637541">
-      </LoggerValueHistoryTimelineItem>
-      <LoggerValueHistoryTimelineItem
-         documentLocation = "#CharacterRangeLen=0&amp;CharacterRangeLoc=310&amp;EndingColumnNumber=25&amp;EndingLineNumber=12&amp;StartingColumnNumber=0&amp;StartingLineNumber=12&amp;Timestamp=426744594.851021">
-      </LoggerValueHistoryTimelineItem>
-      <LoggerValueHistoryTimelineItem
-         documentLocation = "#CharacterRangeLen=0&amp;CharacterRangeLoc=310&amp;EndingColumnNumber=25&amp;EndingLineNumber=12&amp;StartingColumnNumber=0&amp;StartingLineNumber=12&amp;Timestamp=426744594.851219">
-      </LoggerValueHistoryTimelineItem>
    </TimelineItems>
 </Timeline>
