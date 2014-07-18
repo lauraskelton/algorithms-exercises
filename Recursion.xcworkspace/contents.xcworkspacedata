@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:StoreCredit.swift">
+   </FileRef>
+   <FileRef
+      location = "group:MyPlayground.playground">
+   </FileRef>
+   <FileRef
       location = "group:README.md">
    </FileRef>
    <FileRef
@@ -21,5 +27,8 @@
    </FileRef>
    <FileRef
       location = "group:Wordplay.playground">
+   </FileRef>
+   <FileRef
+      location = "group:StoreCredit.playground">
    </FileRef>
 </Workspace>
