@@ -1,6 +1,6 @@
-Recursion Practice
+Friday Exercises
 ===========
 
-Recursion practice exercises from Hacker School's Friday Jobs Prep assignment on July 11th, 2014.
+Exercises from Hacker School's Friday Jobs Prep assignments.
 
-Implemented using Swift playgrounds.
+Implemented using Swift playgrounds and .Swift files run in the terminal (for more computationally-heavy problems).
