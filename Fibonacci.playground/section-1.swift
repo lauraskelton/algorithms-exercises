@@ -34,7 +34,7 @@ class fib {
     // Memoized Array
     func fibArr(n:Int) -> Int {
         if arrayCache.count <= n {
-            arrayCache += fibArr(n-1) + fibArr(n-2)
+            arrayCache.append( fibArr(n-1) + fibArr(n-2))
         }
         return arrayCache[n]
     }
@@ -82,11 +82,47 @@ myfib.fibArr(7)
 myfib.fibArr(8)
 myfib.fibArr(9)
 myfib.fibArr(10)
+myfib.fibArr(11)
+myfib.fibArr(12)
+myfib.fibArr(13)
+myfib.fibArr(14)
+myfib.fibArr(15)
+myfib.fibArr(16)
+myfib.fibArr(17)
+myfib.fibArr(18)
 
 for index in 1...92 {
     myfib.fibArr(index)
 }
 myfib.fibArr(92)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
