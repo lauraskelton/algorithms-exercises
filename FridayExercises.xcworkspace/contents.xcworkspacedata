@@ -25,9 +25,6 @@
       <FileRef
          location = "group:Wordplay.playground">
       </FileRef>
-      <FileRef
-         location = "group:FloodFill.playground">
-      </FileRef>
    </Group>
    <Group
       location = "container:"
@@ -37,6 +34,16 @@
       </FileRef>
       <FileRef
          location = "group:StoreCredit.swift">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Whiteboarding">
+      <FileRef
+         location = "group:FloodFill.playground">
+      </FileRef>
+      <FileRef
+         location = "group:RotateMatrix.playground">
       </FileRef>
    </Group>
 </Workspace>
