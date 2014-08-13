@@ -46,4 +46,20 @@
          location = "group:RotateMatrix.playground">
       </FileRef>
    </Group>
+   <Group
+      location = "container:"
+      name = "Data Structures">
+      <FileRef
+         location = "group:binary-tree.playground">
+      </FileRef>
+      <FileRef
+         location = "group:binary-tree2.playground">
+      </FileRef>
+      <FileRef
+         location = "group:linked-list.playground">
+      </FileRef>
+      <FileRef
+         location = "group:priority-queue.playground">
+      </FileRef>
+   </Group>
 </Workspace>
