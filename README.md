@@ -1,6 +1,6 @@
-Friday Exercises
+Data Structures & Algorithms
 ===========
 
-Exercises from Hacker School's Friday Jobs Prep assignments.
+Exercises in data structures, and algorithms
 
-Implemented using Swift playgrounds and .Swift files run in the terminal (for more computationally-heavy problems).
+Implemented using Swift playgrounds and .Swift files run in the terminal (for more computationally-heavy problems)
